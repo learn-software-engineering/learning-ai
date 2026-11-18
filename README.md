@@ -1,2 +1,1 @@
-# learning-ai
-Learning AI
+# Learning AI
